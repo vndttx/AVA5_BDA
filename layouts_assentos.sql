@@ -1,1 +1,0 @@
-CREATE Table Layouts_assentos
